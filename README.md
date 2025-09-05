@@ -1,7 +1,9 @@
 <!-- Fancy Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aravind-B/Aravind-B/main/assets/header.gif" alt="Animated Header" />
+</p>
 <div align="center">
-  <h1><b>Hola! I'm Aravind B.</b></h1>
-  <h3><i>Welcome To My Github</i></h3>
+  <h3><b>Hola! Welcome to my Digital Playground!</b></h3>
   <p>MCA Student | Java Enthusiast | UI/UX Designer</p>
 </div>
 
