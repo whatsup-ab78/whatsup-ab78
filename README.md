@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/qz7G8Y7.gif" alt="coding gif" width="500"/>
+  <img src="https://media.giphy.com/media/3p50WGyUqeU5W/giphy.gif" width="500" alt="Coding" />
 </p>
 
 ---
