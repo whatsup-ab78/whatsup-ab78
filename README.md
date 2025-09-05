@@ -1,7 +1,9 @@
 <!-- Fancy Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=auto&lines=Hola!+I'm+Aravind+B.+%7C+Welcome+To+My+Github;MCA+Student+%7C+Java+Enthusiast+%7C+UI/UX+Designer;Code.+Create.+Innovate." alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1><b>Hola! I'm Aravind B.</b></h1>
+  <h3><i>Welcome To My Github</i></h3>
+  <p>MCA Student | Java Enthusiast | UI/UX Designer</p>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Coding GIF" />
