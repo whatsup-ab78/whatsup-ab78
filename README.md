@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <b>Hola! I'm Aravind B.</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p><b>MCA Student | Java Enthusiast | UI/UX Designer</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=MCA+Student;Java+Enthusiast;UI/UX+Designer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1tookIhM68iS4/giphy.gif" alt="Glowing Abstract GIF" width="600"/>
+  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" alt="Glowing Abstract GIF" width="400"/>
 </p>
 
 ---
