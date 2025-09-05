@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3p50WGyUqeU5W/giphy.gif" width="500" alt="Coding" />
+ <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Chill vibes" />
 </p>
 
 ---
