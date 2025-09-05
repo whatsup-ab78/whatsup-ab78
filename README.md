@@ -1,14 +1,11 @@
-<!-- Fancy Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aravind-B/Aravind-B/main/assets/header.gif" alt="Animated Header" />
-</p>
+<!-- Header -->
 <div align="center">
-  <h3><b>Hola! Welcome to my Digital Playground!</b></h3>
-  <p>MCA Student | Java Enthusiast | UI/UX Designer</p>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <b>Hola! I'm Aravind B.</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p><b>MCA Student | Java Enthusiast | UI/UX Designer</b></p>
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/l3vR1tookIhM68iS4/giphy.gif" alt="Glowing Abstract GIF" width="600"/>
 </p>
 
 ---
