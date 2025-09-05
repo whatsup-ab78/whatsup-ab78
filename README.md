@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
- <<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U2eGt0OGU1eXZ1dTV0Zmp3ZHY4YWU2dWl5aWNzd2dkZDFsczVkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11ISwbgCxEzMyY/giphy.gif" width="500" alt="Matrix rain" />
-
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="500" alt="Digital Brain" />
 </p>
 
 ---
