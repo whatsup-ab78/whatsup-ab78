@@ -1,60 +1,75 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aravind B</h1>
-<h3 align="center">💻 MCA Student | 💡 Tech Enthusiast | 🚀 Future Software Developer</h3>
+<!-- Fancy Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey!+I'm+Aravind+B.;MCA+Student+%7C+Web+Dev+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
+</p>
 
----
-
-<!-- Quick Info / About Me -->
-- 🔭 I’m currently working on **cool web apps & Java projects**  
-- 🌱 I’m currently learning **React, Node.js, and Cloud Basics**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Java, Web Development, GitHub, or Portfolio Building**  
-- 📫 Reach me at: **your.email@example.com**  
-- ⚡ Fun fact: I like mixing code & creativity (and some good phonk while coding 🎧)
-
----
-
-<!-- Connect With Me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="portfolio" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/qz7G8Y7.gif" alt="coding gif" width="500"/>
 </p>
 
 ---
 
-<!-- Tech Stack -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+### 👋 About Me
+- 🚀 Exploring **Full-Stack Web Development**  
+- 💡 Currently working on **Java + React Projects**  
+- 🎧 I code better with **phonk beats**  
+- 🤝 Always open to collaborating on **cool ideas**  
+- 🧠 Fun fact: I debug better at night 🌙
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,github,mysql" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aravind-B&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-B&theme=radical" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-B&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aravind-B&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-B&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-B&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-<!-- Fun / Optional -->
+### 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aravind-B&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=Aravind-B&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
+
+---
+
+### 🧩 Random Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aravind-B&theme=onedark&margin-w=15" alt="GitHub trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+---
+
+### 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VuZ2t3Zjd3aWl5NHRkb3ExYm80Y2l5Z2E0dnB1ZGR1Z2k1ZnZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" width="300" alt="Matrix Rain"/>
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300" alt="hacker cat"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravind-biju-884a08350"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/_.aravin_dan._/"><img src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&style=for-the-badge" /></a>
+  <a href="mailto:bettercallaravindan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">⚡ <i>“Code is like humor. When you have to explain it, it’s bad.”</i> ⚡</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aravind-B&label=Profile%20Views&color=green&style=flat" alt="views"/>
 </p>
