@@ -1,10 +1,11 @@
 <!-- Fancy Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey!+I'm+Aravind+B.;MCA+Student+%7C+Web+Dev+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey!+I'm+Aravind+B.;MCA+Student+%7C+Java+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
- <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Chill vibes" />
+ <<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U2eGt0OGU1eXZ1dTV0Zmp3ZHY4YWU2dWl5aWNzd2dkZDFsczVkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11ISwbgCxEzMyY/giphy.gif" width="500" alt="Matrix rain" />
+
 </p>
 
 ---
